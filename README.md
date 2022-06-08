@@ -1,3 +1,9 @@
+<h2 align="center"> Seja Bem Vindo Ao meu GITHUB</h2>
+
+<h3> 👨‍💻 Sobre mim</h3>
+
+- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas em Unopar Arapongas.
+
 <div align="center">
   <a href="https://github.com/Pastorii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pastorii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
